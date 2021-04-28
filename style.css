@@ -1,0 +1,46 @@
+input {
+  display: block;
+  margin: 0 auto;
+}
+textarea {
+  display: block;
+  margin: 0 auto;
+  width: 180px;
+  height: 100px;
+}
+p {
+  margin-left: 92px;
+  padding: 5px;
+  margin-bottom: 4px;
+}
+
+.registration {
+  margin: 20px auto;
+  background-color: white;
+  width: 400px;
+  background-color: white;
+  border-radius: 0.5cm;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.register_btn {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+button {
+  margin: 0 auto;
+  width: 188px;
+  height: 40px;
+  background-color: rgb(13, 157, 240);
+  color: white;
+  font-size: 15px;
+  font-style: normal;
+}
+body {
+  background-color: rgb(13, 157, 240);
+}
+
+h1 {
+  text-align: center;
+}
